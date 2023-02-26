@@ -1,0 +1,30 @@
+.form-container{
+    width: 500px;
+    height: 350px;
+    margin: 40px auto;
+    border: 1px solid grey;
+    padding: 20px 20px;
+
+}
+.form-container input{
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 80%;
+}
+.form-container button{
+    padding: 10px;
+    margin-left: 5px;
+    background-color: rgb(215, 198, 198);
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+.form-container .special{
+    width: 40%
+}
+.form-container #postButton{
+    padding: 10px;
+    margin-left: 220px;
+    cursor: pointer;
+   
+}

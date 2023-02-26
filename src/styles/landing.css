@@ -1,0 +1,32 @@
+.landing{
+    display: flex;
+    column-gap: 100px;
+}
+.landing-img{
+    width: 50%;
+}
+.landing-img img{
+    object-fit: cover;
+    width: 100%;
+}
+.landing-actions{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+   
+}
+.landing-text{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.landing-actions a{
+    align-self: center;
+}
+.forward{
+    border-radius: 5px;
+    color: green;
+    background-color: white;
+    border-color: green;
+}
